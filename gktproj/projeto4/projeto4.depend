@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1413504014 source:c:\users\natan\desktop\gktproj\projeto4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+
